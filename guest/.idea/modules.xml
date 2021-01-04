@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/pycharm_project/Pyrequest/.idea/Pyrequest.iml" filepath="D:/pycharm_project/Pyrequest/.idea/Pyrequest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/guest.iml" filepath="$PROJECT_DIR$/.idea/guest.iml" />
+      <module fileurl="file://D:/pycharm_project/python_learn/.idea/python_learn.iml" filepath="D:/pycharm_project/python_learn/.idea/python_learn.iml" />
+    </modules>
+  </component>
+</project>
